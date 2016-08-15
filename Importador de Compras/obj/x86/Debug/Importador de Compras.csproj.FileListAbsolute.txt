@@ -1,0 +1,6 @@
+G:\Github\Importador-de-Compras\Importador de Compras\bin\Debug\Importador de Compras.exe
+G:\Github\Importador-de-Compras\Importador de Compras\bin\Debug\Importador de Compras.pdb
+G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador_de_Compras.Properties.Resources.resources
+G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.csproj.GenerateResource.Cache
+G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.exe
+G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.pdb
