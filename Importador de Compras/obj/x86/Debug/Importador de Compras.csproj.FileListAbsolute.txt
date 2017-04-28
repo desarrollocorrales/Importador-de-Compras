@@ -4,3 +4,9 @@ G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador_d
 G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.csproj.GenerateResource.Cache
 G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.exe
 G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.pdb
+G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador_de_Compras.IUs.FrmPrincipal.resources
+G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.exe.licenses
+G:\Github\Importador-de-Compras\Importador de Compras\bin\Debug\Importador de Compras.exe.config
+G:\Github\Importador-de-Compras\Importador de Compras\obj\x86\Debug\Importador de Compras.csprojResolveAssemblyReference.cache
+G:\Github\Importador-de-Compras\Importador de Compras\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+G:\Github\Importador-de-Compras\Importador de Compras\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
